@@ -1,1 +1,1 @@
-PRODUCT_PACKAGE_OVERLAYS += vendor/lawnicons/overlay
+PRODUCT_PACKAGE_OVERLAYS += vendor/lawnicons/iconoverlay
